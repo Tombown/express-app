@@ -1,6 +1,5 @@
 var express = require('express');
 var mongoose = require('mongoose');
-var passport = require('passport');
 var router = express.Router();
 
 /* GET users listing. */
